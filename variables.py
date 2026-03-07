@@ -301,11 +301,15 @@ if 0:
 
 
 #-------------REGULAR EXPRESSIONS----------------------------------------
-if 1:
+if 0:
     import re
     txt= " i am alive in spain"
-    x=re.search("\s",txt) # returns only first occurance
+    x=re.search(r"\s",txt) # returns only first occurance
     print("does space exist in my string?= ",bool(x))
     x=re.findall("a",txt) #finds all instance 
     print("amount of times 'a' exist in my string =",len(x))
-    
+    x=re.findall("a",txt) #finds all instance 
+    print("amount of times 'a' exist in my string =",len(x))
+
+
+
