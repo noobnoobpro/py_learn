@@ -308,3 +308,4 @@ if 1:
     print("does space exist in my string?= ",bool(x))
     x=re.findall("a",txt) #finds all instance 
     print("amount of times 'a' exist in my string =",len(x))
+    
