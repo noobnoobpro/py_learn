@@ -1,0 +1,10 @@
+*.out
+*.o
+*.exe
+
+#macOS debug files 
+*.dSYM/
+.DS_Store
+build/
+
+
