@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/abdu/Desktop/KIT/ICT/py_learn/cpp_projects/half_adder'
+relocations:     []
+...
